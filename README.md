@@ -2,9 +2,9 @@
 # Hello! 👋 Who am I? #
 <div>
 <br/>
-- 🔭 Full-stack developer with 1 year of experience designing and building scalable, high-performance web and mobile applications។<br/>
-- 🌱 Focusing in front-end technologies like React and Flutter.<br/>
-<!-- - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/> -->
+- 🔭 Mobile developer with 1 year of experience designing and building scalable, seamless performance mobile applications។<br/>
+- 🌱 Focusing on Flutter.<br/>
+<!-- - 👍 Experienced in DevOps, CI/CD, especially with AWS and Azure also GCP<br/> -->
 <!-- - 😍 Developed some AI Apps and integrated with web and ChatGPT. -->
 <br/><br/>
 
