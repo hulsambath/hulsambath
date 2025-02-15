@@ -4,9 +4,16 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hulsambath&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hulsambath&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hulsambath&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hulsambath&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&card_width=450" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hulsambath&theme=github_dark&hide_border=false&card_width=450" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulsambath&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" /></td>
+  </tr>
+</table>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)<br/>
