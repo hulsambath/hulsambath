@@ -1,16 +1,23 @@
-<!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
-<div>
-<br/>
-- 🔭 Mobile developer with 1 year of experience designing and building scalable, seamless performance mobile applications។<br/>
+# 💫 About Me:
+- 🔭 Mobile developer with 1 year of experience designing and building scalable, seamless performance mobile applications<br>
 - 🌱 Focusing on Flutter.<br/>
-<!-- - 👍 Experienced in DevOps, CI/CD, especially with AWS and Azure also GCP<br/> -->
-<!-- - 😍 Developed some AI Apps and integrated with web and ChatGPT. -->
-<br/><br/>
 
-</div>
+# 📊 GitHub Stats:
 
-<p align="center" style="display: flex; justify-content: center; gap: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hulsambath&show_icons=true&theme=tokyonight" alt="Sambath's GitHub stats" width="43%" />
-  <img src="https://streak-stats.demolab.com/?user=hulsambath&theme=tokyonight" alt="Sambath's GitHub Streak" width="45.5%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=hulsambath&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hulsambath&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hulsambath&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hulsambath&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sambath_twentythree) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/therealsambath) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hulsambathh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hulsambath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hulsambath14@gmail.com) 
+---
+[![](https://visitcount.itsvg.in/api?id=hulsambath&icon=0&color=0)](https://visitcount.itsvg.in)
