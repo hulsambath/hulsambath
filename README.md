@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 Mobile developer with 1 year of experience designing and building scalable, seamless performance mobile applications<br>
-- 🌱 Focusing on Flutter.<br/>
+- 🌱 Focusing on Flutter.<br/>. Now I'm so strugling with this technology
 
 # 📊 GitHub Stats:
 
